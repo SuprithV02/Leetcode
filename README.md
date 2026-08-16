@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SuprithV02/Leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/SuprithV02/Leetcode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/SuprithV02/Leetcode/tree/master/0242-valid-anagram) |
 | [0853-car-fleet](https://github.com/SuprithV02/Leetcode/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SuprithV02/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/SuprithV02/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
